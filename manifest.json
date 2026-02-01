@@ -1,0 +1,25 @@
+
+{
+  "name": "KHM SALES Enterprise",
+  "short_name": "KHM Sales",
+  "description": "Advanced ERP for Queen Food Product Ltd.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "https://seeklogo.com/images/P/pran-logo-4B3A8B1A2A-seeklogo.com.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://seeklogo.com/images/P/pran-logo-4B3A8B1A2A-seeklogo.com.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
